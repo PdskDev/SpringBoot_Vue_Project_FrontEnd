@@ -1,0 +1,8 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Devs\\\\Fullstack\\\\SpringBoot\\\\spring-vue\\\\vuefront-app\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
